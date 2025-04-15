@@ -47,4 +47,4 @@ We expect all contributors to follow our [Code of Conduct](CODE_OF_CONDUCT.md) (
 
 ## Contact
 
-If you have any questions or need assistance, feel free to contact the project maintainers at [your-email@example.com] or through [other communication channels, e.g., Discord, Slack].
+If you have any questions or need assistance, feel free to contact the project maintainers at [do-no-contact@mail.com] or through [other communication channels, e.g., Discord, Slack].
